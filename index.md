@@ -4,4 +4,4 @@ demo page
 <p>11 / 14 / 2023</p>
 <p> </p>
 <p>Here's an image!</p>
-<img src="img_garfield.png" style="width:500px;height:600px;">
+<img src="img_garfield.png" style="width:200px;height:200px;">
